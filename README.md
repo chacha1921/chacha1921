@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chalie Lijalem
-- 🌱 I’m currently learning MSc in Comuter Science and Engineering(Data Science)
+- 🌱 MSc in Comuter Science and Engineering(Data Science)
 - 📫 How to reach me Email: chalielijalem@gmail.com
 
 <!---
